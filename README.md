@@ -18,8 +18,8 @@ Projeto de Agenda de contatos criada utilizando Django
 
 1. Clone o repositório e entre na pasta:
 ```shell
-git clone https://github.com/rauldosS/technical-test-nexxera.git
-cd technical-test-nexxera
+git clone https://github.com/rauldosS/agenda.git
+cd agenda
 ```
 
 2. Crie um ambiente virtual:
